@@ -1,5 +1,0 @@
-<script>start("/Users/RafaelCavalcanti/projeto_site/static/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("imagens","imagens",1,384,"384 B",1747512434,"17/05/2025, 17:07:14");</script>
-<script>addRow("videos","videos",1,96,"96 B",1747423987,"16/05/2025, 16:33:07");</script>
-<script>addRow("home.css","home.css",0,7925,"7.7 kB",1747522972,"17/05/2025, 20:02:52");</script>
